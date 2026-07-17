@@ -1,3 +1,3 @@
 # juat-for-edu
 Again
-for animals
+for animal
